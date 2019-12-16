@@ -1,5 +1,6 @@
-# mikkels_repository
+# 1DHT model code repository
 Repository
 
-Just trying this shit out
-Ate calzone today. Very delicious.
+MatLab script and instructions for the 1DHT model developed and first presented in Hornum et al. (2020)
+
+Hornum
